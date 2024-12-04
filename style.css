@@ -1,0 +1,17 @@
+.btn-danger {
+    border-radius: 20px;
+    margin-top: 2rem;
+    box-shadow: 0 0 15px;
+    background-color: rgb(255, 255, 255);
+}
+body {
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgb(122, 43, 175) 0%, rgb(72, 85, 207) 50%, rgb(118, 160, 236) 100%);
+}
+
+h1 {
+    font-family: "leida", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    outline-width: 10px;
+}
